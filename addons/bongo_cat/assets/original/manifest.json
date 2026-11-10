@@ -1,0 +1,387 @@
+{
+  "_source": {
+    "repository": "https://github.com/vladelaina/BongoCat",
+    "commit": "29ccda67802e6b6727acae0bdf42f50277f9aade",
+    "artwork_license": "MIT",
+    "runtime_license": "AGPL-3.0-only (no runtime source copied)",
+    "canvas": [
+      612,
+      354
+    ],
+    "derived_layers": "Standard only: desk-free original devices; offline Cubism body/arm poses; original keyboard overlays",
+    "two_hand_layout": {
+      "keyboard_orientation": "original cover.png orientation, labels toward the cat; physical A on image right and L on image left",
+      "exact_key_targets": 55,
+      "maximum_residual_px": 0.0,
+      "runtime_assist": "none: original keyboard, overlays, mouse pad and native rest coordinates; no input-driven assist; body and devices stationary during typing",
+      "derivation": "unmodified original overlays and exact measured cyan contacts; Cubism mouse arm is pointer-only",
+      "keyboard_offset": [
+        0,
+        0
+      ],
+      "pad_offset": [
+        0,
+        0
+      ],
+      "mouse_rest_origin": [
+        0,
+        0
+      ],
+      "local_mouse_art": [],
+      "second_hand_zone": "all Standard keyboard input; one newest-held-key original overlay",
+      "second_hand_transition": "direct original overlay/raised-paw swaps; no custom fade",
+      "pointer_policy": "mesh and original mouse use the same native pointer origin on every frame",
+      "idle": "none: exact original rest arm remains unchanged"
+    },
+    "asset_counts": {
+      "png": 75,
+      "original_common_overlays": 55,
+      "standard_two_hand_overlays": 0,
+      "keyboard_arrow_overlays": 4
+    }
+  },
+  "LICENSE-MIT": {
+    "sha256": "b2ebd60270f54dfc7d7865e8fb59bdd69170b23c3a3ee063bab5a023b2abfa08",
+    "upstream": "resources/assets/LICENSE-MIT",
+    "modified": false
+  },
+  "common/left-keys/Alt.png": {
+    "sha256": "b7158b2062faab5069347767cb6257e626ee4c85279f8854a572848dd926fe86",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Alt.png",
+    "modified": false
+  },
+  "common/left-keys/AltGr.png": {
+    "sha256": "fcf4fd3e9a4b6f389957e19cc30c897577381027ac7a7eec4bc7bd4b1a074933",
+    "upstream": "resources/assets/models/standard/resources/left-keys/AltGr.png",
+    "modified": false
+  },
+  "common/left-keys/BackQuote.png": {
+    "sha256": "b1f6771a3c190d7c28b8b98f5b1b5c7471e73fd22d36a85b1960941b57bf5579",
+    "upstream": "resources/assets/models/standard/resources/left-keys/BackQuote.png",
+    "modified": false
+  },
+  "common/left-keys/Backspace.png": {
+    "sha256": "f1704a055bc1f57a7eee8fe1f6ccc588796193aa79a9626059f197ca265d6841",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Backspace.png",
+    "modified": false
+  },
+  "common/left-keys/CapsLock.png": {
+    "sha256": "56fcc1ef5708ef91df8f39c12e16a80a7a7adc11f148fc057444e7fa9c341b6c",
+    "upstream": "resources/assets/models/standard/resources/left-keys/CapsLock.png",
+    "modified": false
+  },
+  "common/left-keys/Control.png": {
+    "sha256": "136e96dd8d567c3ec5e75d5cb7bdf4b4669b97b358b33d285f7ae70e1caf3018",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Control.png",
+    "modified": false
+  },
+  "common/left-keys/ControlLeft.png": {
+    "sha256": "d708e6bea023adb2f36fbca87d34ccf40f9f7c6a72773ee94153ab25733a9c6d",
+    "upstream": "resources/assets/models/standard/resources/left-keys/ControlLeft.png",
+    "modified": false
+  },
+  "common/left-keys/ControlRight.png": {
+    "sha256": "b021fd7b70ccecd7a59a657ecc1477123d5c816a0b406402328822111a5f4182",
+    "upstream": "resources/assets/models/standard/resources/left-keys/ControlRight.png",
+    "modified": false
+  },
+  "common/left-keys/Delete.png": {
+    "sha256": "06ecc869808a1b75be20df6dbc0ae435ef7adb9ecfa6a9d15f769c37e187df06",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Delete.png",
+    "modified": false
+  },
+  "common/left-keys/Escape.png": {
+    "sha256": "d3f318f743ca66dc1ffd4eadf221f899b825a2593f0b08746c504d34cf3b16ec",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Escape.png",
+    "modified": false
+  },
+  "common/left-keys/Fn.png": {
+    "sha256": "41ee2d3b7e34bc5a958b957b95520fd127a74cdbb03a1989b9dd23b0f98e8ab3",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Fn.png",
+    "modified": false
+  },
+  "common/left-keys/KeyA.png": {
+    "sha256": "b9f6c1928163f3f272c08762fe429f85b0633db940901f2c3e572c01d7084d66",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyA.png",
+    "modified": false
+  },
+  "common/left-keys/KeyB.png": {
+    "sha256": "5f74014b78b868e0219d9f7d44eb74123c5f7efb6dfc4b1841b276aa26a28fac",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyB.png",
+    "modified": false
+  },
+  "common/left-keys/KeyC.png": {
+    "sha256": "1c2832319c667816610ac8193a15b631450a2dd248de63697b696dd4ac88600c",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyC.png",
+    "modified": false
+  },
+  "common/left-keys/KeyD.png": {
+    "sha256": "e9b8dd504c5c0075174bb414cddacad3af249db57c24fdec1e0465cb59bfa684",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyD.png",
+    "modified": false
+  },
+  "common/left-keys/KeyE.png": {
+    "sha256": "a1f1e0ce7dad126f7a1cd4a14039b4305dbc0c7d879827850e44105a7c2b2de2",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyE.png",
+    "modified": false
+  },
+  "common/left-keys/KeyF.png": {
+    "sha256": "339f47463a9b7c2d6e36bf394fca96c2adb62b3e8a6fce454459500e4d29734f",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyF.png",
+    "modified": false
+  },
+  "common/left-keys/KeyG.png": {
+    "sha256": "5a53e2c272aed8232e652015b23ae63a9411255141ad61d59396c32e860d32cc",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyG.png",
+    "modified": false
+  },
+  "common/left-keys/KeyH.png": {
+    "sha256": "cbb4348db4cea9b74e0349a32a6ea451340dc8290f14128e52b089eef86644a8",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyH.png",
+    "modified": false
+  },
+  "common/left-keys/KeyI.png": {
+    "sha256": "fcaad27d5abb178c508fddb43a134cad6818bb66235429ab5318f56a12aa7fa9",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyI.png",
+    "modified": false
+  },
+  "common/left-keys/KeyJ.png": {
+    "sha256": "9bdff298e092c06f84f5641a6641627443fd1a037831e2d0c1d41169fb8fa7ce",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyJ.png",
+    "modified": false
+  },
+  "common/left-keys/KeyK.png": {
+    "sha256": "91842d59efd84afb546a642afd702e6bbed48a8a6566c3b1caeaaa6113a9a1ce",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyK.png",
+    "modified": false
+  },
+  "common/left-keys/KeyL.png": {
+    "sha256": "dee40c370f0b8c640a19a5b9aeef15c10f4f0646146bf9af3096deace3a63279",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyL.png",
+    "modified": false
+  },
+  "common/left-keys/KeyM.png": {
+    "sha256": "469e64fc161e1d3076b7dd95bafa0849b7b0c4ac381f81000e6574320eda6cf1",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyM.png",
+    "modified": false
+  },
+  "common/left-keys/KeyN.png": {
+    "sha256": "39b9eeae74da363255bed0a29117e20b3840b8518208fc44f27eb68dddc26af8",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyN.png",
+    "modified": false
+  },
+  "common/left-keys/KeyO.png": {
+    "sha256": "e8f584a1110a47567fa9c3139f5c9237e9f126bca4008fb577b7449cb9df5933",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyO.png",
+    "modified": false
+  },
+  "common/left-keys/KeyP.png": {
+    "sha256": "58df86cf8f3bd5a7779f89276623e212216f09f1d157250c0f136460554c5bb7",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyP.png",
+    "modified": false
+  },
+  "common/left-keys/KeyQ.png": {
+    "sha256": "2c40746d939fa40ee5e659d8975e7e1ef4fae3c3f3a4e13e9aacbd37db977020",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyQ.png",
+    "modified": false
+  },
+  "common/left-keys/KeyR.png": {
+    "sha256": "3661c418dbbfc52cd912a7f5d44d8fece770edd80c7bff4298c24b4361c458e7",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyR.png",
+    "modified": false
+  },
+  "common/left-keys/KeyS.png": {
+    "sha256": "f74d1ad474443f639ca387e78541daf461d58bf910f3a244551c2772ef799634",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyS.png",
+    "modified": false
+  },
+  "common/left-keys/KeyT.png": {
+    "sha256": "214d04b047f2f09f1af4ee930688ff3add3e12f3ccf9db99eb9d363e34b1f45f",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyT.png",
+    "modified": false
+  },
+  "common/left-keys/KeyU.png": {
+    "sha256": "2fef77d10135bb38e6a6f65532537f6134962a741f6bc22f7297b464c9a9ade1",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyU.png",
+    "modified": false
+  },
+  "common/left-keys/KeyV.png": {
+    "sha256": "06e4d17a0b27679fade9467364c51f5ea772ad4ebdae03ad71309389b97db964",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyV.png",
+    "modified": false
+  },
+  "common/left-keys/KeyW.png": {
+    "sha256": "045d452e3bb680db45fac5286f9d40a63ea64b624d13070ef73cd6241fb67850",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyW.png",
+    "modified": false
+  },
+  "common/left-keys/KeyX.png": {
+    "sha256": "fda8882f0513754a65502abefa70ce5eed37e8bc8f9f49e06cb0efb66a0f0930",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyX.png",
+    "modified": false
+  },
+  "common/left-keys/KeyY.png": {
+    "sha256": "f924a7183b7d1ad86f4711cc0dabc33186515796fbb73254972c350c8a24c927",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyY.png",
+    "modified": false
+  },
+  "common/left-keys/KeyZ.png": {
+    "sha256": "c56858a25a03e644836780229303ff9c89a0676ee2de4e7fc662441bd638d6fa",
+    "upstream": "resources/assets/models/standard/resources/left-keys/KeyZ.png",
+    "modified": false
+  },
+  "common/left-keys/Meta.png": {
+    "sha256": "90a25bfc44303a8b096bf8aea1599dce4e7cd4f21a979e6da4058880d0b58f40",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Meta.png",
+    "modified": false
+  },
+  "common/left-keys/Num0.png": {
+    "sha256": "d1deb11db9af80f633e326608a00254016f6f0ee68ed4d516a394f4d08d25d1e",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Num0.png",
+    "modified": false
+  },
+  "common/left-keys/Num1.png": {
+    "sha256": "2f956a742b367565cec3e0a3cc0de7b959558d26d3534d408875315a1def5142",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Num1.png",
+    "modified": false
+  },
+  "common/left-keys/Num2.png": {
+    "sha256": "089b74669552bfaf1b8b2e9c798df82683198541d2b7176d4e87b54ff3d2d52d",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Num2.png",
+    "modified": false
+  },
+  "common/left-keys/Num3.png": {
+    "sha256": "d8faa5af749db1f1fc2fcdbadf4ae61423092abe84a8328649f2df12e1ed475f",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Num3.png",
+    "modified": false
+  },
+  "common/left-keys/Num4.png": {
+    "sha256": "44d7404bed161b3841453491bb86699adf775ecdee24120269b5487e39615e54",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Num4.png",
+    "modified": false
+  },
+  "common/left-keys/Num5.png": {
+    "sha256": "335655042a50550c8239c6b902526aed6bccb36c038ae3bc9f560c8b7272e929",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Num5.png",
+    "modified": false
+  },
+  "common/left-keys/Num6.png": {
+    "sha256": "4ad28e1c190f118cd3661a39a50bb709a2802a58df408c87847d1be375189ece",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Num6.png",
+    "modified": false
+  },
+  "common/left-keys/Num7.png": {
+    "sha256": "88cc5a0306c23534ad765d486b64438072bdaee152770db0a2db8da35e8ff8c8",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Num7.png",
+    "modified": false
+  },
+  "common/left-keys/Num8.png": {
+    "sha256": "5e9ceb43dd98ca07b673cc94a59c68a49183f410c2d7ab83a9def11b7c8c2c68",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Num8.png",
+    "modified": false
+  },
+  "common/left-keys/Num9.png": {
+    "sha256": "bcabb1f9997a2b1401af8152f8c0aae6fa679c5c2f98cae5c459a1a5b4ebbf3f",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Num9.png",
+    "modified": false
+  },
+  "common/left-keys/Return.png": {
+    "sha256": "586aa9ff226ab4e2ac93caa2e4a9e8dc9785a05807186df83c61af84ad09e3d4",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Return.png",
+    "modified": false
+  },
+  "common/left-keys/Shift.png": {
+    "sha256": "0e3c8f003e709046f366c2d78ab726e68381e04502e57c596f0e879f2836f74f",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Shift.png",
+    "modified": false
+  },
+  "common/left-keys/ShiftLeft.png": {
+    "sha256": "db000af963e631e76c8a3f2330da6104e4da960142111c6ba97010601b2cf47d",
+    "upstream": "resources/assets/models/standard/resources/left-keys/ShiftLeft.png",
+    "modified": false
+  },
+  "common/left-keys/ShiftRight.png": {
+    "sha256": "7e608810d46f15c5ba1a3db4337da12448e48568bf646b6354cfa39881098b1a",
+    "upstream": "resources/assets/models/standard/resources/left-keys/ShiftRight.png",
+    "modified": false
+  },
+  "common/left-keys/Slash.png": {
+    "sha256": "732d9b2f5f73b0f6d7d43060e70ac17150f05bd15099e1f1b4bece27cfc5edc0",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Slash.png",
+    "modified": false
+  },
+  "common/left-keys/Space.png": {
+    "sha256": "8fc774bc88314e058a8133136e0007439e08ed521ddbd845ded1f7cb7e19dbea",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Space.png",
+    "modified": false
+  },
+  "common/left-keys/Tab.png": {
+    "sha256": "6bd0ada4e420876d2f65d9e019e5745ac9e058986293678cd50f5517ea8a776e",
+    "upstream": "resources/assets/models/standard/resources/left-keys/Tab.png",
+    "modified": false
+  },
+  "standard/background.png": {
+    "sha256": "83600c47170155c5eccfceed7ec219ebe8fe9dddf25f9035c4f14c69057caaec",
+    "upstream": "resources/assets/models/standard/resources/background.png",
+    "modified": false
+  },
+  "standard/cover.png": {
+    "sha256": "4a1a4b503c042f8de0b243f4f25bae4e4df2bc72f30dba36014cfe4c5067d04d",
+    "upstream": "resources/assets/models/standard/resources/cover.png",
+    "modified": false
+  },
+  "standard/layers/mouse.png": {
+    "sha256": "18143e14af4b77b7fa43a1af81042efb130afaed7be5e35d313f60d0858111e7",
+    "upstream": "resources/assets/models/standard/demomodel.1024/texture_00.png",
+    "modified": true,
+    "operation": "byte-pixels cropped from the isolated original atlas mouse component"
+  },
+  "standard/layers/left_device.png": {
+    "sha256": "394d98357f113ea4501cad42592c6ad6cc6b8a8071923fed94427be13040021a",
+    "upstream": "resources/assets/models/standard/resources/background.png",
+    "modified": true,
+    "operation": "isolated original mouse pad; desk removed; clipped lower-left corner replaced by a mirrored copy of the intact original right corner, fitted to the two original diagonal edges"
+  },
+  "standard/layers/keyboard.png": {
+    "sha256": "6cc64ca99e83be42363c122f89fa105b3bf6f8208b5cdad0711517b83279c7d9",
+    "upstream": "resources/assets/models/standard/resources/background.png",
+    "modified": true,
+    "operation": "isolated original keyboard; desk removed"
+  },
+  "standard/cubism_body.png": {
+    "sha256": "fa93dd5f9350aeece7a651fe6db675191d3f4e93299037d9c9a128c96bdeef94",
+    "upstream": "resources/assets/models/standard/cat.model3.json + demomodel.moc3 + demomodel.1024/texture_00.png",
+    "modified": true,
+    "operation": "static original Cubism body; arm/mouse/raised paw/table2 excluded; no idle animation"
+  },
+  "standard/cubism_paw.png": {
+    "sha256": "ea89cea595fdfe8cbed749cdd0a7727915312ee8878eeb460b575c2627b16007",
+    "upstream": "resources/assets/models/standard/cat.model3.json + demomodel.moc3 + demomodel.1024/texture_00.png",
+    "modified": true,
+    "operation": "original Cubism rightgand drawable, transparent crop; straight RGB recovered from premultiplied OpenGL readback; alpha and geometry unchanged"
+  },
+  "standard/cubism_arm_texture.png": {
+    "sha256": "f20955f2779f52dddefae131e6c7c5506ce4261d60cf020d594e095e5a2193b2",
+    "upstream": "resources/assets/models/standard/demomodel.1024/texture_00.png",
+    "modified": false,
+    "operation": "byte-identical original texture_00; only righthand UV triangles are sampled"
+  },
+  "standard/cubism_mesh.bin": {
+    "sha256": "01c732f614c6a5ebe0af78ec8fbc1a134cb571f20b5c5588e823e87c9b31cd52",
+    "upstream": "resources/assets/models/standard/cat.model3.json + demomodel.moc3 + demomodel.1024/texture_00.png",
+    "modified": true,
+    "operation": "81 original righthand meshes: 9x9 pointer origins, 58 vertices, UV and 86 triangles"
+  },
+  "standard/cubism_poses.json": {
+    "sha256": "4a7d78f3ed7c12e9e9accc4c564dac8b3eef626a72c1a04f6f50d6e63dffec86",
+    "upstream": "resources/assets/models/standard/cat.model3.json + demomodel.moc3 + demomodel.1024/texture_00.png",
+    "modified": true,
+    "operation": "binary mesh layout, mouse contact anchors and native reach validation"
+  },
+  "standard/two_hand_keys.json": {
+    "sha256": "e965734587f8ed596da5868b4b0c44caa070fc12f2bb74099dc39c55cedfb2b5",
+    "upstream": "resources/assets/models/standard/resources/left-keys/*.png",
+    "modified": true,
+    "operation": "JSON contact metadata measured from original PNG cyan indicators; no keyboard or overlay pixels changed"
+  }
+}

@@ -1,0 +1,893 @@
+{
+  "operation": "original keyboard orientation; exact cyan contact centres from unmodified common/left-keys PNGs",
+  "canvas": [
+    612,
+    354
+  ],
+  "centre": [
+    394.0,
+    282.0
+  ],
+  "keys": {
+    "Alt": {
+      "target": [
+        480.37719,
+        254.83333
+      ],
+      "source_overlay": "Alt",
+      "source_contact": [
+        480.37719,
+        254.83333
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "AltGr": {
+      "target": [
+        354.80435,
+        231.33696
+      ],
+      "source_overlay": "AltGr",
+      "source_contact": [
+        354.80435,
+        231.33696
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "BackQuote": {
+      "target": [
+        506.22822,
+        332.86307
+      ],
+      "source_overlay": "BackQuote",
+      "source_contact": [
+        506.22822,
+        332.86307
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Backspace": {
+      "target": [
+        247.90749,
+        272.8326
+      ],
+      "source_overlay": "Backspace",
+      "source_contact": [
+        247.90749,
+        272.8326
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "CapsLock": {
+      "target": [
+        524.84733,
+        294.72519
+      ],
+      "source_overlay": "CapsLock",
+      "source_contact": [
+        524.84733,
+        294.72519
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Control": {
+      "target": [
+        377.88551,
+        233.10197
+      ],
+      "source_overlay": "Control",
+      "source_contact": [
+        377.88551,
+        233.10197
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "ControlLeft": {
+      "target": [
+        546.07874,
+        265.0315
+      ],
+      "source_overlay": "ControlLeft",
+      "source_contact": [
+        546.07874,
+        265.0315
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "ControlRight": {
+      "target": [
+        320.9065,
+        226.41463
+      ],
+      "source_overlay": "ControlRight",
+      "source_contact": [
+        320.9065,
+        226.41463
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Delete": {
+      "target": [
+        267.66397,
+        258.81377
+      ],
+      "source_overlay": "Delete",
+      "source_contact": [
+        267.66397,
+        258.81377
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Escape": {
+      "target": [
+        498.26974,
+        346.75658
+      ],
+      "source_overlay": "Escape",
+      "source_contact": [
+        498.26974,
+        346.75658
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Fn": {
+      "target": [
+        445.1,
+        336.46
+      ],
+      "source_overlay": "Fn",
+      "source_contact": [
+        445.1,
+        336.46
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyA": {
+      "target": [
+        480.98507,
+        287.93284
+      ],
+      "source_overlay": "KeyA",
+      "source_contact": [
+        480.98507,
+        287.93284
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyB": {
+      "target": [
+        397.81651,
+        253.94495
+      ],
+      "source_overlay": "KeyB",
+      "source_contact": [
+        397.81651,
+        253.94495
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyC": {
+      "target": [
+        440.23448,
+        261.33103
+      ],
+      "source_overlay": "KeyC",
+      "source_contact": [
+        440.23448,
+        261.33103
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyD": {
+      "target": [
+        434.10667,
+        281.02667
+      ],
+      "source_overlay": "KeyD",
+      "source_contact": [
+        434.10667,
+        281.02667
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyE": {
+      "target": [
+        433.66854,
+        297.0618
+      ],
+      "source_overlay": "KeyE",
+      "source_contact": [
+        433.66854,
+        297.0618
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyF": {
+      "target": [
+        411.97468,
+        275.48101
+      ],
+      "source_overlay": "KeyF",
+      "source_contact": [
+        411.97468,
+        275.48101
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyG": {
+      "target": [
+        391.51316,
+        271.06579
+      ],
+      "source_overlay": "KeyG",
+      "source_contact": [
+        391.51316,
+        271.06579
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyH": {
+      "target": [
+        370.15686,
+        267.39216
+      ],
+      "source_overlay": "KeyH",
+      "source_contact": [
+        370.15686,
+        267.39216
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyI": {
+      "target": [
+        327.15315,
+        273.51351
+      ],
+      "source_overlay": "KeyI",
+      "source_contact": [
+        327.15315,
+        273.51351
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyJ": {
+      "target": [
+        352.07273,
+        262.21818
+      ],
+      "source_overlay": "KeyJ",
+      "source_contact": [
+        352.07273,
+        262.21818
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyK": {
+      "target": [
+        333.03191,
+        257.80851
+      ],
+      "source_overlay": "KeyK",
+      "source_contact": [
+        333.03191,
+        257.80851
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyL": {
+      "target": [
+        314.56322,
+        253.83908
+      ],
+      "source_overlay": "KeyL",
+      "source_contact": [
+        314.56322,
+        253.83908
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyM": {
+      "target": [
+        358.3871,
+        246.74194
+      ],
+      "source_overlay": "KeyM",
+      "source_contact": [
+        358.3871,
+        246.74194
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyN": {
+      "target": [
+        377.66393,
+        250.30328
+      ],
+      "source_overlay": "KeyN",
+      "source_contact": [
+        377.66393,
+        250.30328
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyO": {
+      "target": [
+        305.30435,
+        270.15217
+      ],
+      "source_overlay": "KeyO",
+      "source_contact": [
+        305.30435,
+        270.15217
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyP": {
+      "target": [
+        286.96429,
+        265.875
+      ],
+      "source_overlay": "KeyP",
+      "source_contact": [
+        286.96429,
+        265.875
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyQ": {
+      "target": [
+        483.74046,
+        306.56489
+      ],
+      "source_overlay": "KeyQ",
+      "source_contact": [
+        483.74046,
+        306.56489
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyR": {
+      "target": [
+        411.13869,
+        292.61314
+      ],
+      "source_overlay": "KeyR",
+      "source_contact": [
+        411.13869,
+        292.61314
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyS": {
+      "target": [
+        460.9,
+        286.175
+      ],
+      "source_overlay": "KeyS",
+      "source_contact": [
+        460.9,
+        286.175
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyT": {
+      "target": [
+        389.67763,
+        286.92105
+      ],
+      "source_overlay": "KeyT",
+      "source_contact": [
+        389.67763,
+        286.92105
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyU": {
+      "target": [
+        348.02027,
+        278.41216
+      ],
+      "source_overlay": "KeyU",
+      "source_contact": [
+        348.02027,
+        278.41216
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyV": {
+      "target": [
+        418.12139,
+        257.53179
+      ],
+      "source_overlay": "KeyV",
+      "source_contact": [
+        418.12139,
+        257.53179
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyW": {
+      "target": [
+        458.03597,
+        302.06475
+      ],
+      "source_overlay": "KeyW",
+      "source_contact": [
+        458.03597,
+        302.06475
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyX": {
+      "target": [
+        459.15294,
+        267.32941
+      ],
+      "source_overlay": "KeyX",
+      "source_contact": [
+        459.15294,
+        267.32941
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyY": {
+      "target": [
+        369.23899,
+        282.22642
+      ],
+      "source_overlay": "KeyY",
+      "source_contact": [
+        369.23899,
+        282.22642
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "KeyZ": {
+      "target": [
+        482.43066,
+        270.06569
+      ],
+      "source_overlay": "KeyZ",
+      "source_contact": [
+        482.43066,
+        270.06569
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Meta": {
+      "target": [
+        499.68421,
+        260.61404
+      ],
+      "source_overlay": "Meta",
+      "source_contact": [
+        499.68421,
+        260.61404
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Num0": {
+      "target": [
+        283.9598,
+        280.54271
+      ],
+      "source_overlay": "Num0",
+      "source_contact": [
+        283.9598,
+        280.54271
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Num1": {
+      "target": [
+        480.56277,
+        327.09091
+      ],
+      "source_overlay": "Num1",
+      "source_contact": [
+        480.56277,
+        327.09091
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Num2": {
+      "target": [
+        456.26432,
+        321.02203
+      ],
+      "source_overlay": "Num2",
+      "source_contact": [
+        456.26432,
+        321.02203
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Num3": {
+      "target": [
+        429.96154,
+        316.15934
+      ],
+      "source_overlay": "Num3",
+      "source_contact": [
+        429.96154,
+        316.15934
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Num4": {
+      "target": [
+        407.71239,
+        310.50442
+      ],
+      "source_overlay": "Num4",
+      "source_contact": [
+        407.71239,
+        310.50442
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Num5": {
+      "target": [
+        386.81197,
+        304.79915
+      ],
+      "source_overlay": "Num5",
+      "source_contact": [
+        386.81197,
+        304.79915
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Num6": {
+      "target": [
+        365.13699,
+        299.69863
+      ],
+      "source_overlay": "Num6",
+      "source_contact": [
+        365.13699,
+        299.69863
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Num7": {
+      "target": [
+        342.09286,
+        296.15714
+      ],
+      "source_overlay": "Num7",
+      "source_contact": [
+        342.09286,
+        296.15714
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Num8": {
+      "target": [
+        321.33594,
+        291.49219
+      ],
+      "source_overlay": "Num8",
+      "source_contact": [
+        321.33594,
+        291.49219
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Num9": {
+      "target": [
+        301.52555,
+        286.68613
+      ],
+      "source_overlay": "Num9",
+      "source_contact": [
+        301.52555,
+        286.68613
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Return": {
+      "target": [
+        284.11675,
+        245.25381
+      ],
+      "source_overlay": "Return",
+      "source_contact": [
+        284.11675,
+        245.25381
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Shift": {
+      "target": [
+        402.89166,
+        252.92528
+      ],
+      "source_overlay": "Shift",
+      "source_contact": [
+        402.89166,
+        252.92528
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "ShiftLeft": {
+      "target": [
+        530.02417,
+        278.42296
+      ],
+      "source_overlay": "ShiftLeft",
+      "source_contact": [
+        530.02417,
+        278.42296
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "ShiftRight": {
+      "target": [
+        313.13905,
+        235.5858
+      ],
+      "source_overlay": "ShiftRight",
+      "source_contact": [
+        313.13905,
+        235.5858
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Slash": {
+      "target": [
+        337.39623,
+        243.0
+      ],
+      "source_overlay": "Slash",
+      "source_contact": [
+        337.39623,
+        243.0
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Space": {
+      "target": [
+        419.96891,
+        242.08187
+      ],
+      "source_overlay": "Space",
+      "source_contact": [
+        419.96891,
+        242.08187
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    },
+    "Tab": {
+      "target": [
+        511.60779,
+        311.72987
+      ],
+      "source_overlay": "Tab",
+      "source_contact": [
+        511.60779,
+        311.72987
+      ],
+      "residual_shift": [
+        0,
+        0
+      ],
+      "residual_distance": 0.0
+    }
+  }
+}
