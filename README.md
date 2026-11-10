@@ -7,8 +7,8 @@ every editor workspace, and reacts to your real keyboard and mouse input.
 
 Requires **Godot 4.7.2.stable**.
 
-Download `BongoCat-addon-only.zip` from the Releases page (or install from the Godot
-Asset Library), extract it into your project root, then enable **Bongo Cat — Original**
+Download or install from the Godot
+Asset Library, extract it into your project root, then enable **Bongo Cat — Original**
 in *Project Settings → Plugins*.
 
 ## Use
